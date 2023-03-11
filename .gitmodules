@@ -1,0 +1,6 @@
+[submodule "java-patterns-and-anti"]
+	path = java-patterns-and-anti
+	url = https://github.com/hemelo/java-patterns-and-anti
+[submodule "php-boas-praticas"]
+	path = php-boas-praticas
+	url = https://github.com/hemelo/php-boas-praticas
